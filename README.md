@@ -10,3 +10,12 @@ This Repo contains all the important pattern problems that you must solve before
 * * * * *
 ```
 ---
+### Pattern2 ###
+```
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+```
+---
